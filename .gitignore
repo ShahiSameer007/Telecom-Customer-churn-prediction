@@ -1,0 +1,63 @@
+# =========================================
+# TELECOM CUSTOMER CHURN PROJECT - GITIGNORE
+# =========================================
+
+# --- OS / System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Python Cache ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# --- Virtual Environments ---
+.env/
+.venv/
+venv/
+env/
+*.env
+*.venv
+
+# --- IDE / Editor Files ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Data Files ---
+# (Keep raw & cleaned datasets local, don’t push to GitHub)
+dataset/
+datasets/
+*.csv
+*.xlsx
+*.xls
+
+# --- Output Images ---
+images/
+*.png
+*.jpg
+*.jpeg
+
+# --- Logs and Reports ---
+*.log
+*.txt
+*.docx
+*.pdf
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+
+# --- Build & Dist Files ---
+build/
+dist/
+*.egg-info/
+
+# --- Temporary or Backup Files ---
+*.bak
+*.tmp
+*.swp
+*.old
