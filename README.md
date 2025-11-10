@@ -8,8 +8,4 @@ The goal is to identify customers likely to leave (churn) and understand the key
 ## ⚙️ Tech Stack
 - **Language:** Python  
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
-- **Environment:** VS Code / Jupyter Notebook  
-
----
-
-## 🧩 Project Structure
+- **Environment:** VS Code / Jupyter Notebook 
